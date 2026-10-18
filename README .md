@@ -17,3 +17,13 @@ Wrote project HTML layout (profile.html) and styling integrations.
 Structured JavaScript module imports and core rendering logic (buildCard, render).
 
 Completed Worksheet P9 manual answers, DOM Quick Reference table, and self-assessment rubrics.
+## Meeting 10: Asynchronous JavaScript and API
+
+- Used `fetch()` and `async/await` to retrieve API data.
+- Practiced JSON with `response.json()`, `JSON.parse()`, and `JSON.stringify()`.
+- Implemented loading, success, empty, and error states.
+- Separated API logic into `js/api.js` and UI logic into `js/app.js`.
+- Added screenshots as assignment evidence.
+
+### AI Disclosure
+AI assisted me with explanations, debugging, and code examples. I tested the code and worked on integrating it into my Kawaii Hotel project.
